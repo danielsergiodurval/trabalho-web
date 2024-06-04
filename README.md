@@ -28,7 +28,9 @@ Crie o banco de dados:
 
 Acesse o phpMyAdmin através do navegador: http://localhost/phpmyadmin
 Crie um novo banco de dados com o nome 'escolasite'
-Importe o arquivo escolasite.sql localizado no diretório do projeto dentro da pasta "banco de dados".
+Importe o arquivo "escolasite.sql" localizado no diretório do projeto, ou copie o codigo do banco de dados 
+que esta no arquivo de texto "codigo do banco de dados" e cole na opção "SWL" do "phpMyAdmin" " http://localhost/phpmyadmin"
+____________________________________________________________________________________________________________________________
 
 Uso
 Acesse o projeto através do navegador "http://localhost/escola"
